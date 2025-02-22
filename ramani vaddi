@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ramanammaa Vaddi- Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            padding: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ramanamma Vaddi</h1>
+        <p><strong>Student | Aspiring Java Developer</strong></p>
+        <p>📍 Seethammadhara,Visakhapatnam | 📧 vaddiramanamma222@gmail.com | 📞 +91 8712329345</p>
+        
+        <h2>Professional Summary</h2>
+        <p>Ambitious and detail-oriented student with a strong foundation in problem-solving and teamwork.
+           Passionate about software development, particularly in Java and web technologies. Seeking an opportunity
+           to apply my skills and gain hands-on experience in a challenging environment.</p>
+        
+        <h2>Skills</h2>
+        <ul>
+            <li>Core Java & OOP Principles</li>
+            <li>Data Structures & Algorithms</li>
+            <li>Web Development (HTML, CSS, JavaScript, React)</li>
+            <li>SQL & Database Management (MySQL, PostgreSQL)</li>
+            <li>REST API Development & Integration</li>
+            <li>Version Control (Git, GitHub)</li>
+            <li>Team Collaboration</li>
+            <li>Critical Thinking & Problem Solving</li>
+        </ul>
+        
+        <h2>Experience</h2>
+        <h3>JAVA Development Intern | Data Pro Computers | May 2024 - June 2024</h3>
+        <ul>
+            <li>Developed and tested Java-based applications, focusing on backend logic and database integration.</li>
+            <li>Assisted in debugging and troubleshooting, identifying and resolving critical bugs in production.</li>
+            <li>Worked on a mini-project that automated database management using Java and SQL.</li>
+        </ul>
+        
+        <h2>Projects</h2>
+        <h3>1. Student Management System</h3>
+        <ul>
+            <li>Developed a Java-based application to manage student records using MySQL.</li>
+            <li>Implemented CRUD operations and an intuitive UI using Java Swing.</li>
+            <li>Improved data retrieval speed by 30% through optimized queries.</li>
+        </ul>
+        
+        <h3>2. Personal Portfolio Website</h3>
+        <ul>
+            <li>Designed and developed a responsive portfolio website using HTML, CSS, and JavaScript.</li>
+            <li>Showcased projects, skills, and experience in an interactive and visually appealing manner.</li>
+            <li>Improved page load speed by optimizing assets and implementing lazy loading.</li>
+        </ul>
+        
+        <h3>3. Online Library Management System</h3>
+        <ul>
+            <li>Built a web-based application using Java, Spring Boot, and MySQL.</li>
+            <li>Implemented user authentication and role-based access control.</li>
+            <li>Automated book borrowing and return system, reducing manual workload by 40%.</li>
+        </ul>
+        
+        <h2>Education</h2>
+        <p><strong>Bachelor's Degree in MPCS</strong> | Visakha Govt Degree College For Women | 2022 - 2025</p>
+        <p><strong>Higher Secondary Education</strong> | Sri Chaithanya Jr College | 2018 - 2020 | Percentage: 93%</p>
+        <p><strong>Secondary Education</strong> | Nehru Municipal Corporation High School | Percentage: 98%</p>
+        
+        <h2>Certificates</h2>
+        <ul>
+            <li>Core Java Internship - Data Pro Computers</li>
+            <li>Web Development Bootcamp - Udemy</li>
+            <li>SQL for Data Science - Coursera</li>
+            <li>Git & GitHub for Developers - Udemy</li>
+        </ul>
+        
+        <h2>Contact</h2>
+        <p>If you'd like to connect or collaborate, feel free to reach out via email or phone.</p>
+    </div>
+</body>
+</html>
